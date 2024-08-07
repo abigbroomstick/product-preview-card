@@ -112,8 +112,6 @@ In the future, I want to use my experience building this component to build out 
 - Facebook - [@Nam Nguyen](https://www.facebook.com/nam.nguyenbathanh/)
 
 ## Acknowledgments
-
-Ashleynguci- she gave me huge motivation to learn web development :D
 Colt Steele- best Udemy Front-End class I've taken so far
 Kevin Powell- a great source for learning web development for FREE!
 Nheo Hi- my lovely girlfriend who puts up with me every time I stayed up late to code.
